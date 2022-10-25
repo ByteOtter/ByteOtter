@@ -7,7 +7,7 @@ I am interested in UI/UX Design and Security.
 ### My experience:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=yellow) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=informational)
-![Bootstrap](https://img.shields.io/badge/bootstrap--white?style=for-the-badge&logo=bootstrap&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=brightgreen) ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
+![Bootstrap](https://img.shields.io/badge/bootstrap--white?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=brightgreen) ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
 
 ### My GitHub Stats:
 
