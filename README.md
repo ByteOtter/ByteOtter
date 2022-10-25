@@ -9,7 +9,7 @@ I'm a Software Developer trainee at SUSE located in Germany.
 
 ### My GitHub Stats:
 
-[![ByteOtter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteOtter&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![ByteOtter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteOtter&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
