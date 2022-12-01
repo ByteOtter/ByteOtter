@@ -28,7 +28,7 @@ I am interested in UI/UX Design and Security.
 
 ### My most commonly (publicly) used languages
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteOtter&hide_title=true&theme=transparent&hide_border=true&count_private=true&layout=compact&include_all_commits=true)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteotter&hide_title=true&theme=transparent&hide_border=true&count_private=true&layout=compact&include_all_commits=true)
 
 
 See you around!
