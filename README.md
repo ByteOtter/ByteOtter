@@ -19,6 +19,8 @@ I am interested in UI/UX Design and Security.
 
 ![Cucumber](https://img.shields.io/badge/cucumber--green?style=for-the-badge&logo=cucumber&logoColor=green)
 
+![Selenium](https://img.shields.io/badge/selenium--white?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ### My GitHub Stats:
 
@@ -26,7 +28,7 @@ I am interested in UI/UX Design and Security.
 
 ### My most commonly (publicly) used languages
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteotter&hide_title=true&theme=transparent&hide_border=true&count-private=true&layout=compact&include_all_commits=true)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ByteOtter&hide_title=true&theme=transparent&hide_border=true&count_private=true&layout=compact&include_all_commits=true)
 
 
 See you around!
