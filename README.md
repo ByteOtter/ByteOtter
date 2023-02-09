@@ -1,8 +1,7 @@
 # ByteOtter
 ## Hey, I'm Chris aka ByteOtter
 
-I'm a software developer trainee at SUSE Software Solutions located in Germany.<br/>
-I am interested in UI/UX Design and Security.
+I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
 ### My experience:
 
