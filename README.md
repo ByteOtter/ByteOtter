@@ -30,6 +30,6 @@ I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
 [![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteotter&hide_title=true&theme=transparent&hide_border=true&count_private=true&layout=compact&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-You can reach me via Matrix @chris:kde.org
+You can reach me via Matrix [@chris:kde.org](https://matrix.to/#/@chris:kde.org)
 
 See you around!
