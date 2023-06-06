@@ -7,13 +7,12 @@ I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
 #### Languages
 
-![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen) 
+![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
+![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
+![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
 ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
-![HTML5](https://img.shields.io/badge/html5--informational?style=for-the-badge&logo=html5&logoColor=informational) 
-![C#](https://img.shields.io./badge/c%23--blue?style=for-the-badge&logo=C%20Sharp#&logoColor=blue)
-![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow) 
-![Bootstrap](https://img.shields.io/badge/bootstrap--white?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/css--violet?style=for-the-badge&logo=css3&logoColor=violet)
+![HTML5](https://img.shields.io/badge/html5--informational?style=for-the-badge&logo=html5&logoColor=informational)
+
 
 #### QA & Testing:
 
@@ -21,6 +20,9 @@ I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
 ![Selenium](https://img.shields.io/badge/selenium--white?style=for-the-badge&logo=selenium&logoColor=white)
 
+#### Build tools:
+
+![Setuptools](https://img.shields.io/badge/setuptools--yellow?style=for-the-badge&logo=pypi&logoColor=yellow)
 
 ### My GitHub Stats:
 
