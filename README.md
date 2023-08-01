@@ -3,6 +3,14 @@
 
 I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
+Current projects in development:
+
+[![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
+](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects
+
+[![Static Badge](https://img.shields.io/badge/Netbox--Sync-NetboxSync?style=flat-square&logo=rust&logoColor=red&color=black)
+](https://github.com/ByteOtter/netbox-sync) A rust application for creating NetBox entries for machines automatically
+
 ### My experience:
 
 #### Languages
