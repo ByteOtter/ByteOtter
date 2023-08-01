@@ -3,7 +3,14 @@
 
 I'm a software developer trainee at SUSE Software Solutions located in Germany.
 
-Current projects in development:
+I started programming with Python and a bit of Java and am most comfortable using the former.
+My interests currently move in the direction of more hardware related programming topics.
+
+To this end I am currently in the process of learning Rust.
+
+
+
+### Current projects in development:
 
 [![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
 ](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects
