@@ -27,7 +27,6 @@ To this end I am currently in the process of learning Rust.
 ![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
 ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
 ![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
-![HTML5](https://img.shields.io/badge/html5--informational?style=for-the-badge&logo=html5&logoColor=informational)
 
 
 #### QA & Testing:
