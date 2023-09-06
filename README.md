@@ -10,13 +10,13 @@ To this end I am currently in the process of learning Rust.
 
 
 
-### Current projects in development:
+### Current projects:
 
 [![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
-](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects
+](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects.
 
 [![Static Badge](https://img.shields.io/badge/Netbox--Sync-NetboxSync?style=flat-square&logo=rust&logoColor=red&color=black)
-](https://github.com/ByteOtter/netbox-sync) A rust application for creating NetBox entries for machines automatically
+](https://github.com/ByteOtter/netbox-sync) A Rust application to create NetBox entries for machines automatically.
 
 ### My experience:
 
@@ -24,12 +24,15 @@ To this end I am currently in the process of learning Rust.
 
 ![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
 ![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
-![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
+![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
 ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
+![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/html5--informational?style=for-the-badge&logo=html5&logoColor=informational)
 
 
 #### QA & Testing:
+
+![PyTest](https://img.shields.io/badge/pytest--brightgreen?style=for-the-badge&logo=pytest&logoColor=brightgreen)
 
 ![Cucumber](https://img.shields.io/badge/cucumber--green?style=for-the-badge&logo=cucumber&logoColor=green)
 
