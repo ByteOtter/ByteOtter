@@ -32,9 +32,7 @@ To this end I am currently in the process of learning Rust.
 #### QA & Testing:
 
 ![PyTest](https://img.shields.io/badge/pytest--brightgreen?style=for-the-badge&logo=pytest&logoColor=brightgreen)
-
 ![Cucumber](https://img.shields.io/badge/cucumber--green?style=for-the-badge&logo=cucumber&logoColor=green)
-
 ![Selenium](https://img.shields.io/badge/selenium--white?style=for-the-badge&logo=selenium&logoColor=white)
 
 #### Build tools:
