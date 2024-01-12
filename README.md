@@ -15,8 +15,8 @@ To this end I am currently in the process of learning Rust.
 [![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
 ](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects.
 
-[![Static Badge](https://img.shields.io/badge/Netbox--Sync-NetboxSync?style=flat-square&logo=rust&logoColor=red&color=black)
-](https://github.com/ByteOtter/netbox-sync) A Rust application to create NetBox entries for machines automatically.
+[![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)
+](https://github.com/The-Nazara-Project/Nazara) A Rust application to create NetBox entries for machines automatically.
 
 ### My experience:
 
