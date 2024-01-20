@@ -23,8 +23,8 @@ To this end I am currently in the process of learning Rust.
 #### Languages
 
 ![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
-![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
 ![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
+![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
 ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
 ![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
 
