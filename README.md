@@ -38,6 +38,8 @@ To this end I am currently in the process of learning Rust.
 #### Build tools:
 
 ![Setuptools](https://img.shields.io/badge/setuptools--yellow?style=for-the-badge&logo=pypi&logoColor=yellow)
+![Cargo](https://img.shields.io/badge/cargo--orange?style=for-the-badge&logo=rust&logoColor=orange)
+![OpenBuildService](https://img.shields.io/badge/open_build_service--green?style=for-the-badge)
 
 ### My GitHub Stats:
 
