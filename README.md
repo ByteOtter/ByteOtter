@@ -15,7 +15,7 @@ To this end I am currently in the process of learning Rust and C.
 
 ![Static Badge](https://img.shields.io/badge/cshy-cshy?style=flat-square&logo=C&logoColor=blue&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FByteOtter%2Fcshy) A file package format built for learning purposes only.
 
-[![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
+[![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=bright-green&color=black)
 ](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects.
 
 ### My experience:
