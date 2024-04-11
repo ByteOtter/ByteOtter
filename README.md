@@ -6,14 +6,14 @@ I'm a software developer trainee at SUSE Software Solutions located in Germany.
 I started programming with Python and a bit of Java and am most comfortable using the former.
 My interests currently move in the direction of more hardware related programming topics.
 
-To this end I am currently in the process of learning Rust.
-
-
+To this end I am currently in the process of learning Rust and C.
 
 ### Current projects:
 
 [![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)
 ](https://github.com/The-Nazara-Project/Nazara) A Rust application to create NetBox entries for machines automatically.
+
+![Static Badge](https://img.shields.io/badge/cshy-cshy?style=flat-square&logo=C&logoColor=blue&labelColor=black&color=black&link=https%3A%2F%2Fgithub.com%2FByteOtter%2Fcshy) A file package format built for learning purposes only.
 
 [![Static Badge](https://img.shields.io/badge/%20Nester-Nester?style=flat-square&logo=python&logoColor=red&color=black)
 ](https://github.com/ByteOtter/nester)  A CLI/TUI application written in Python for easily creating programming projects.
@@ -26,7 +26,6 @@ To this end I am currently in the process of learning Rust.
 ![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
 ![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
 ![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
-![Java](https://img.shields.io/badge/java--yellow?style=for-the-badge&logo=java11&logoColor=yellow)
 
 
 #### QA & Testing:
@@ -40,6 +39,7 @@ To this end I am currently in the process of learning Rust.
 ![Setuptools](https://img.shields.io/badge/setuptools--yellow?style=for-the-badge&logo=pypi&logoColor=yellow)
 ![Cargo](https://img.shields.io/badge/cargo--orange?style=for-the-badge&logo=rust&logoColor=orange)
 ![OpenBuildService](https://img.shields.io/badge/open_build_service--green?style=for-the-badge)
+![Make](https://img.shields.io/badge/make--red?style=for-the-badge&logo=make&logoColor=red)
 
 ### My GitHub Stats:
 
