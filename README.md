@@ -15,7 +15,7 @@ To this end I am currently in the process of learning Rust and C.
 
 [![Static Badge](https://img.shields.io/badge/cshy-cshy?style=flat-square&logo=C&logoColor=blue&labelColor=black&color=black)](https://github.com/ByteOtter/cshy) A file package format built for learning purposes only.
 
-[![Static Badge](https://img.shields.io/badge/%20Nazara-Nazara?style=flat-square&logo=rust&logoColor=red&color=black)
+[![Static Badge](https://img.shields.io/badge/%20isotest-isotest?style=flat-square&logo=rust&logoColor=red&color=black)
 ](https://github.com/os-autoinst/isotest-ng) Re-implementation of the `isotovideo` module of `openQA`.
 
 [![Static Badge](https://img.shields.io/badge/menix-menix?style=flat-square&logo=C&logoColor=blue&labelColor=black&color=black)](https://github.com/menix-os/menix) A small and modular operating system.
