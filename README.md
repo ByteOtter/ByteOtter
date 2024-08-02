@@ -47,11 +47,7 @@ To this end I am currently in the process of learning Rust and C.
 
 [![ByteOtter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteOtter&&hide_border=true&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### My most commonly (publicly) used languages
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ByteOtter&theme=transparent" />
-
-[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=byteotter&hide_title=true&theme=transparent&hide_border=true&count_private=true&layout=compact&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 You can reach me via Matrix [@chris:kde.org](https://matrix.to/#/@chris:kde.org)
 
