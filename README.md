@@ -43,6 +43,12 @@ To this end I am currently in the process of learning Rust and C.
 ![OpenBuildService](https://img.shields.io/badge/open_build_service--green?style=for-the-badge)
 ![Make](https://img.shields.io/badge/make--red?style=for-the-badge&logo=make&logoColor=red)
 
+#### Other technologies:
+
+![Docker](https://img.shields.io/badge/docker--cyan?style=for-the-badge&logo=docker&logoColor=cyan)
+![Git](https://img.shields.io/badge/Git--orange?style=for-the-badge&logo=git&logoColor=orange)
+![GitHub CI/CD](https://img.shields.io/badge/github_CI\/CD--white?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ### My GitHub Stats:
 
 [![ByteOtter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteOtter&&hide_border=true&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
