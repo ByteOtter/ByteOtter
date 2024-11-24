@@ -1,7 +1,7 @@
 # ByteOtter
-## Hey, I'm Chris aka ByteOtter
+## Hey, I'm Tiara - or Tia, for short - aka ByteOtter
 
-I'm a software developer trainee at SUSE Software Solutions located in Germany.
+I'm a software engineering trainee at SUSE Software Solutions located in Germany.
 
 I started programming with Python and a bit of Java and am most comfortable using the former.
 My interests currently move in the direction of more hardware related programming topics.
@@ -54,7 +54,5 @@ To this end I am currently in the process of learning Rust and C.
 [![ByteOtter's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteOtter&&hide_border=true&count_private=true&hide_title=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ByteOtter&theme=transparent" />
-
-You can reach me via Matrix [@chris:kde.org](https://matrix.to/#/@chris:kde.org)
 
 See you around!
