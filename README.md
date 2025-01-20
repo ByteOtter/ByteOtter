@@ -26,8 +26,9 @@ To this end I am currently in the process of learning Rust and C.
 
 ![Python](https://img.shields.io/badge/python--brightgreen?style=for-the-badge&logo=python&logoColor=brightgreen)
 ![Rust](https://img.shields.io/badge/rust--orange?style=for-the-badge&logo=rust&logoColor=orange)
-![CS](https://img.shields.io/badge/c%23--green?style=for-the-badge&logo=csharp&logoColor=green)
-![Ruby](https://img.shields.io/badge/ruby--red?style=for-the-badge&logo=ruby&logoColor=red)
+![Bash](https://img.shields.io/badge/bash--olive?style=for-the-badge&logo=GNUbash&logoColor=olive)
+![C](https://img.shields.io/badge/c--blue?style=for-the-badge&logo=c&logoColor=blue)
+![Lua](https://img.shields.io/badge/lua--darkblue?style=for-the-badge&logo=lua&logoColor=darkblue)
 
 
 #### QA & Testing:
