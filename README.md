@@ -1,8 +1,6 @@
 # ByteOtter
 ## Hey, I'm Tiara - or Tia, for short - aka ByteOtter
 
-I'm a software engineering trainee at SUSE Software Solutions located in Germany.
-
 I started programming with Python and a bit of Java and am most comfortable using the former.
 My interests currently move in the direction of more hardware related programming topics.
 
